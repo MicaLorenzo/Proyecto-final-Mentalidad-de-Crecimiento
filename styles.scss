@@ -1,1 +1,2 @@
-@use 'variables';
+@use variables;
+body { background: variables.$color-fondo; }
